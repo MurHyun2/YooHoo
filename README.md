@@ -1,3 +1,6 @@
+# YooHoo
+🏆삼성 청년 SW아카데미(SSAFY) 12th 특화 프로젝트 우수상🏆
+
 # 목차
 
 [서비스](#-서비스) <br>
@@ -48,6 +51,8 @@
 <img src="https://img.shields.io/badge/notion-%23181717.svg?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC.svg?style=for-the-badge&logo=mattermost&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Intellij%20idea-000000.svg?style=for-the-badge&logo=Intellij%20idea&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1572B6.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
 
 # 👨🏻‍💻 담당 업무 (DevOps)
+
+## :bust_in_silhouette: 이대현
 
 * **CI/CD 파이프라인 구축 및 자동화 (`Jenkins`, `Docker`, `Nginx`)**
     * `Jenkins`, `Nginx`, `Docker`를 활용하여 카나리 배포 전략 기반의 무중단 배포 환경 구축 및 `CI/CD` 파이프라인 자동화 완료.
