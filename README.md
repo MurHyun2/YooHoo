@@ -93,45 +93,31 @@
 
 # 💻 화면
 
-## 0. 메인 화면 및 로그인 화면
+## 메인 화면 및 로그인 화면
 
 ### 메인화면
 
-<img src="https://velog.velcdn.com/images/ynco32/post/1ff490e5-73db-421c-9104-d714d69bbb3d/image.gif" width="400" height="600"/>
+<img src="https://github.com/user-attachments/assets/c31abf50-f68c-47e7-a477-d05801028173" width="400" height="600"/>
 
-## 1. 단체 보기
+### 마이 페이지
 
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif
-" width="400" height="600"/>
+<img src="https://github.com/user-attachments/assets/a2b469c3-b68f-4ff6-9728-333436744da7" width="400" height="600"/>
 
-## 2. 후원하기
-
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif
-" width="400" height="600"/>
-
-## 3. 마이페이지
-
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif
-" width="400" height="600"/>
-
-## 5. 관리자 화면
+## 관리자 화면
 
 ### 단체 정보 관리
 
-<img src="https://velog.velcdn.com/images/ynco32/post/e9b0c2fa-4a1e-4bf1-adcd-557d8d9ecdb8/image.gif" width="800" height="600"/>
+<img src="https://github.com/user-attachments/assets/37232fbc-f920-418f-9e96-2b31938df8f9" width="800" height="600"/>
 
 ### 후원금 관리
 
-<img src="https://velog.velcdn.com/images/ynco32/post/ebb10ec5-9148-4e5b-9eb1-0e67b59ace74/image.gif
-" width="800" height="600"/>
+<img src="https://github.com/user-attachments/assets/20b8db5d-d345-4bfa-babb-79829e5bca18"/>
 
 ### 강아지 관리
 
-<img src="https://velog.velcdn.com/images/ynco32/post/3f553998-7faf-472a-a530-cf52fd2ced77/image.gif
-" width="800" height="600"/>
-
-<img src="https://velog.velcdn.com/images/ynco32/post/7735a934-aec0-4a97-ad8d-526589d5827b/image.gif
-" width="800" height="600"/>
+<img src="https://github.com/user-attachments/assets/192ae280-92a4-42ec-b2cd-a0f94d0ab9c6"/>
+<br>
+<img src="https://github.com/user-attachments/assets/c6658978-3175-4a36-b152-499383f079b1"/>
 
 # 📕 문서
 
@@ -149,10 +135,10 @@
 
 ### ERD
 
-![ERD](https://velog.velcdn.com/images/ynco32/post/7c11d4f0-a459-4a8c-b078-63d4bed43f60/image.png)
+![ERD 문서](https://github.com/user-attachments/assets/2fda66f3-98aa-4d6a-89a2-76a126056b37)
 
 [ERD 문서](https://dbdiagram.io/d/%ED%8A%B9%ED%99%94%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-67bd0b4b263d6cf9a0507acd)
 
 ### 아키텍쳐
 
-![아키텍쳐](./exec/doc/yoohoo_아키텍처.png)
+![아키텍쳐](https://github.com/user-attachments/assets/db98fd6a-b471-480b-966e-117ab0fb6d47)
