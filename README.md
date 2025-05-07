@@ -92,15 +92,11 @@
 
 # 💻 화면
 
-## 메인 화면 및 로그인 화면
+## 메인 화면
 
-### 메인 화면
+### 메인 화면 및 단체 보기
 
 <img src="https://github.com/user-attachments/assets/c31abf50-f68c-47e7-a477-d05801028173" width="400" height="600"/>
-
-### 단체 보기
-
-<img src="https://github.com/user-attachments/assets/0dfa7283-a0d4-4dde-8553-b7061d3ad0eb" width="400" height="600"/>
 
 ### 후원 하기
 
