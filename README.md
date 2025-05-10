@@ -45,7 +45,7 @@
 
 ### Infra
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-527FFF?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" > <img src="https://img.shields.io/badge/cAdvisor-%234285F4.svg?style=for-the-badge&logo=cAdvisor지
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" > <img src="https://img.shields.io/badge/cAdvisor-%234285F4.svg?style=for-the-badge&logo=cAdvisor">
 
 <img src="https://github.com/user-attachments/assets/6df75106-cb6d-4c9e-8615-cd1321e6f3df" width="400" height="600"/>
 
