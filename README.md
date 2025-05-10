@@ -47,7 +47,17 @@
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-527FFF?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" > <img src="https://img.shields.io/badge/cAdvisor-%234285F4.svg?style=for-the-badge&logo=cAdvisor">
 
-<img src="https://github.com/user-attachments/assets/6df75106-cb6d-4c9e-8615-cd1321e6f3df" width="400" height="600"/>
+# 💻 화면
+
+## 메인 화면 및 로그인 화면
+
+### 메인 화면 및 단체 보기
+
+<img src="https://github.com/user-attachments/assets/bbd6b79f-1fe3-4878-a268-03feabaa5e73" width="400" height="600"/>
+
+### 후원 페이지
+
+<img src="https://github.com/user-attachments/assets/35ba4a32-bb29-4bb4-9cae-627b885a88ec" width="400" height="600"/>
 
 ### 마이 페이지
 
