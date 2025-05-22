@@ -4,36 +4,15 @@
 # 목차
 
 [서비스](#-서비스) <br>
-[팀원](#-팀원) <br>
 [화면](#-화면) <br>
 [문서](#-문서) <br>
+[팀원](#-팀원) <br>
 
 # 🐕 서비스
 
 <aside>
 💡 [투명한 후원 내역 공개와 간편한 기부로 활발하고 건강한 기부 문화를 만들어가는 유기견 후원 서비스]
 </aside>
-
-# 👨‍👩‍👦‍👦 팀원
-
-<table>
-  <tr>
-    <td align="center"><img src="https://velog.velcdn.com/images/ynco32/post/a8eac12b-4232-43d3-845c-83ceca7ccf5c/image.png" width="130px;" alt="유승호 프로필 이미지"></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/ynco32/post/a345e27e-ee54-44a4-bbe7-e745b88c2df9/image.png" width="130px;" alt="장인영 프로필 이미지"></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/ynco32/post/ea06163b-9ff0-4379-aec9-91326ef29e21/image.png" width="130px;" alt="이대현 프로필 이미지"></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/ynco32/post/f0f38bff-7cdc-42b1-9a02-f6e5e41e9ef8/image.png" width="130px;" alt="황연주 프로필 이미지"></td>
-    <td align="center"><a href="https://github.com/Minal002"><img src="https://velog.velcdn.com/images/ynco32/post/4c5affea-6f0b-4a98-aa83-433341cfe0c9/image.png" width="130px;" alt="최윤지 프로필 이미지"></a></td>
-    <td align="center"><a href="https://github.com/ynco32"><img src="https://velog.velcdn.com/images/ynco32/post/87bb3f32-3f06-4e04-a8ee-6d64f11c8f77/image.png" width="130px;" alt="김미나 프로필 이미지"></a></td>
-  </tr>
-  <tr> 
-    <td align="center">유승호</td>
-    <td align="center">장인영</td>
-    <td align="center">이대현</td>
-    <td align="center">황연주</td>
-    <td align="center">최윤지</td>
-    <td align="center">김미나</td>
-  </tr> 
-</table>
 
 # 🛠️ 기술 스택
 
@@ -102,3 +81,24 @@
 ### 아키텍쳐
 
 ![아키텍쳐](https://github.com/user-attachments/assets/db98fd6a-b471-480b-966e-117ab0fb6d47)
+
+# 👨‍👩‍👦‍👦 팀원
+
+<table>
+  <tr>
+    <td align="center"><img src="https://velog.velcdn.com/images/ynco32/post/a8eac12b-4232-43d3-845c-83ceca7ccf5c/image.png" width="130px;" alt="유승호 프로필 이미지"></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/ynco32/post/a345e27e-ee54-44a4-bbe7-e745b88c2df9/image.png" width="130px;" alt="장인영 프로필 이미지"></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/ynco32/post/ea06163b-9ff0-4379-aec9-91326ef29e21/image.png" width="130px;" alt="이대현 프로필 이미지"></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/ynco32/post/f0f38bff-7cdc-42b1-9a02-f6e5e41e9ef8/image.png" width="130px;" alt="황연주 프로필 이미지"></td>
+    <td align="center"><a href="https://github.com/Minal002"><img src="https://velog.velcdn.com/images/ynco32/post/4c5affea-6f0b-4a98-aa83-433341cfe0c9/image.png" width="130px;" alt="최윤지 프로필 이미지"></a></td>
+    <td align="center"><a href="https://github.com/ynco32"><img src="https://velog.velcdn.com/images/ynco32/post/87bb3f32-3f06-4e04-a8ee-6d64f11c8f77/image.png" width="130px;" alt="김미나 프로필 이미지"></a></td>
+  </tr>
+  <tr> 
+    <td align="center">유승호</td>
+    <td align="center">장인영</td>
+    <td align="center">이대현</td>
+    <td align="center">황연주</td>
+    <td align="center">최윤지</td>
+    <td align="center">김미나</td>
+  </tr> 
+</table>
